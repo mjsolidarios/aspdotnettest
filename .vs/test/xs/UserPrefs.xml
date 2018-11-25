@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{BD4BCE9D-8F18-4299-AD70-FCFDB1309D7D}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="test/Web.config">
     <Files>
-      <File FileName="test/Web.config" Line="11" Column="5" />
+      <File FileName="test/Web.config" Line="10" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="/usr/bin/google-chrome-stable" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
