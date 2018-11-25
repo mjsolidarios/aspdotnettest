@@ -90,8 +90,4 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-<Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" 
-Condition="'$(VSToolsPath)' !=''" />
-<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v11.0\WebApplications\Microsoft.WebApplication.targets"
-Condition="true" />
 </Project>
